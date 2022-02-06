@@ -1,3 +1,5 @@
+<h2 align="left">Web3 Frontend Web Developer</h2>
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=quantum-0x&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 <h3 align="left">Technologies:</h3>
