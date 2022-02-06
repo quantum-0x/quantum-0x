@@ -7,7 +7,7 @@
 
 <h3 align="left">Quick Contact:</h3>
 
-Telegram → [t.me/quantum0x](t.me/quantum0x)
+Telegram → [https://t.me/quantum0x](https://t.me/quantum0x)
 
 <!-- 
 <p align="left">
