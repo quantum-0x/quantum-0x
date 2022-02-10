@@ -4,12 +4,12 @@
 
 <h2>Find me on the web: 👀🌎</h2>
 
-👉 Check out my portfolio site - <a href="http://xianliuidesigner.com/">quantumdev</a></br>
-👉 I also write articles on <a href="https://hashnode.com/quantum0x">Hashnode</a> </br>
+👉 Check out my portfolio site - <a href="https://github.com/quantum-0x">quantumdev</a></br>
+👉 I also write articles on <a href="https://hashnode.com/@quantum0x">Hashnode</a> </br>
 
 <h6>
-- 🤔 I’m looking for part-time or full-time position as a front end web developer. </br>
-- 💬 Ask me about design and code. </br>
+- 🤔 I’m looking for part-time or full-time position as a frontend web developer. </br>
+- 💬 I also use pagebuilders such as webflow and wordpress really well. </br>
 - 📫 Fastest way to reach me: <a href="https://t.me/quantum0x">Telegram</a></br>
 </h6>
 
