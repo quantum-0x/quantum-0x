@@ -5,10 +5,10 @@
 <h2>Find me on the web: 👀🌎</h2>
 
 👉 Check out my portfolio site - <a href="https://github.com/quantum-0x">quantumdev</a></br>
-👉 I write articles on <a href="https://hashnode.com/@quantum0x">Hashnode</a> </br>
+👉 I write web3 articles on <a href="https://hashnode.com/@quantum0x">Hashnode</a> </br>
 
 <h6>
-- 🤔 I’m looking for part-time or full-time position as a frontend web developer. </br>
+- 🤔 I’m looking for part-time or full-time position as a web3 frontend web developer. </br>
 - 💬 I use pagebuilders such as webflow and wordpress proficiently. </br>
 - 📫 Fastest way to reach me: <a href="https://t.me/quantum0x">Telegram</a></br>
 </h6>
