@@ -9,7 +9,7 @@
 
 <h6>
 - 🤔 I’m looking for part-time or full-time position as a web3 frontend web developer. </br>
-- 💬 I use pagebuilders such as webflow and wordpress proficiently. </br>
+- 💬 I also use pagebuilders such as webflow and wordpress proficiently. </br>
 - 📫 Fastest way to reach me: <a href="https://t.me/quantum0x">Telegram</a></br>
 </h6>
 
