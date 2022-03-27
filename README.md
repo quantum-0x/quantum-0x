@@ -8,7 +8,6 @@
 👉 Web3 Designs - <a href="https://dribbble.com/quantum0x">dribbble</a></br>
 
 <br>
-- 🤔 I’m looking for part-time or full-time position as a web3 frontend web developer. </br>
 - 🚀 Fastest way to reach me: <a href="https://t.me/quantum0x">Telegram</a></br>
 - 📫 You can also send an email: <a href="mailto:helloquantum0x@gmail.com">Email</a></br>
 
