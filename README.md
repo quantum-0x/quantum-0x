@@ -6,7 +6,6 @@
 
 👉 Portfolio site - <a href="https://devquantum.xyz">devquantum</a></br>
 👉 Web3 Designs - <a href="https://dribbble.com/quantum0x">dribbble</a></br>
-👉 Web3 Writings - <a href="https://blog.devquantum.xyz/">devquantum blog</a></br>
 
 <br>
 - 🤔 I’m looking for part-time or full-time position as a web3 frontend web developer. </br>
