@@ -6,6 +6,7 @@
 
 👉 Portfolio Site - <a href="https://devquantum.xyz">devquantum</a></br>
 👉 Web3 Designs - <a href="https://dribbble.com/quantum0x">dribbble</a></br>
+👉 Web3 Writings - <a href="https://blog.devquantum.xyz">quantum's blog</a></br>
 
 <br>
 - 🚀 Fastest way to reach me: <a href="https://t.me/quantum0x">Telegram</a></br>
