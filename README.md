@@ -1,6 +1,6 @@
 <h2 align="left">Web3 UX Engineer</h2>
 
-<h4 align="left">Hi, I'm a UI Designer & Front End Developer working with blockchain technologies</h4>
+<h4 align="left">Hi, I'm a UX Designer & Front End Developer working with blockchain technologies</h4>
 
 > Tools, languages, and other things I work with.
 
