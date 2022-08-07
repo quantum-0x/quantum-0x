@@ -11,8 +11,7 @@
 👉 Web3 Writings - <a href="https://blog.devquantum.xyz">quantum's blog</a></br>
 
 <br>
-- 🚀 Fastest way to reach me: <a href="https://t.me/quantum0x">Telegram</a></br>
-- 📫 You can also send an email: <a href="mailto:helloquantum0x@gmail.com">Email</a></br>
+- 📫 <a href="mailto:helloquantum0x@gmail.com">Contact me</a></br>
 
 <!-- 
 <p align="left">
